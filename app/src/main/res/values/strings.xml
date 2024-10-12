@@ -10,4 +10,26 @@
     <string name="menu_home">Home</string>
     <string name="menu_gallery">Gallery</string>
     <string name="menu_slideshow">Slideshow</string>
+    <string name="travelapp">TravelApp</string>
+    <string name="splashmensa">Tu compañerp ideal para planificar y disfrutar de\ntus viajes. Con TravelApp, podrás explorar destinos\nemocionantes, organizar itinearios personalizados \ny encontrar las mejores opciones de alojamiento \ny actividades, todo desde la palma de tu mano.\nYa sea que estés planeando unas vacacciones\nspñadas o un viaje de último minuto,\nTravelApp está aquí para hacer que tu experiencia\nsea fácil, eficiente y memorable.\n¡Empieza a explorar el mundo con nosotros\nhoy mismo!</string>
+    <string name="getstar">GET STARTED</string>
+    <string name="sigin">Sign In</string>
+    <string name="email">Enter Email</string>
+    <string name="pass">Enter Password</string>
+    <string name="log">Sign in</string>
+    <string name="ikmg">img</string>
+    <string name="pres">Presupuesto</string>
+    <string name="pre">Presupuesto</string>
+    <string name="cvuelo">Costo del vuelo en USD</string>
+    <string name="caloja">Costo del alojamiento por noche USD</string>
+    <string name="cnohce">Cantidad de noches</string>
+    <string name="ccomida">Costo diario de comidas en USD</string>
+    <string name="ccomidaa">Costo diario de comida en USD</string>
+    <string name="iaggtree">I agree to the...</string>
+    <string name="cañ">Calcular</string>
+    <string name="elpres">El presupuesto total es:</string>
+    <string name="resu">Resultado</string>
+    <string name="presu">Presupuesto</string>
+    <string name="sd">Empresas de Seguros</string>
+    <string name="hot">Hoteles</string>
 </resources>
